@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "REACT_APP_SPOTIFY_CLIENT_ID": "@spotify_client_id"
+    }
+  }
+}
